@@ -27,7 +27,7 @@ def play_music(folder, song_name):
             pygame.mixer.music.unpause()
             print("Resumed")
         elif command == "S":
-            pygame.mixer.stop()
+            pygame.mixer.music.stop()
             print("Stopped")
             return
         else:

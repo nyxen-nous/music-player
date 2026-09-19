@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 MP3 Player
+=======
+# MP3 Player
+>>>>>>> f697409 (Describe your changes)
 
 A simple command-line MP3 player written in Python with [Pygame](https://www.pygame.org/). It lists the songs in a local music folder, lets you select one by number, and provides playback controls from the terminal.
 
@@ -65,3 +69,10 @@ music player/
 ├── README.md     # Project documentation
 └── .gitignore
 ```
+<<<<<<< HEAD
+=======
+
+## License
+
+No license has been specified for this project.
+>>>>>>> f697409 (Describe your changes)
